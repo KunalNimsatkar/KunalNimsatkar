@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KunalNimsatkar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Technologies
-- 💞️ I’m looking to collaborate as Frontend Developer
+- 👀 Software Developer at Dot2globe Solution India Pvt Ltd.
 
 <!---
 KunalNimsatkar/KunalNimsatkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
